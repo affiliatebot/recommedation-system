@@ -12,3 +12,5 @@ team_member - shubham sharma
 project -  Book Recommendation system
 
 description - keras , collaborative filtering , emmbedding concept
+
+VIDEO LINK - https://drive.google.com/file/d/12wmTo8G1n4fPNfpwFCIe1XsJ8Wc_d2Qa/view?usp=sharing
